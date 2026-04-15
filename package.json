@@ -1,0 +1,25 @@
+{
+  "name": "jantennow-generator",
+  "version": "2.0.0",
+  "description": "Article Generator for JantenNow - Portal Berita Jawa Barat & Banten",
+  "main": "tools/generate.js",
+  "scripts": {
+    "generate": "node tools/generate.js",
+    "dev": "node tools/generate.js"
+  },
+  "keywords": [
+    "google-apps-script",
+    "article-generator",
+    "cms",
+    "static-site",
+    "jantennow",
+    "news-portal"
+  ],
+  "author": "JantenNow Team",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
